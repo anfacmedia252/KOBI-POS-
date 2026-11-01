@@ -1,0 +1,12 @@
+node_modules/
+**/node_modules/
+server/.env
+.env
+.env.*
+**/.env.*
+!server/.env.example
+*.dump
+coverage/
+Receipt*.pdf
+*.jfif
+.vercel

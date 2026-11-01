@@ -1,0 +1,5 @@
+POSYMART MULTI-BUSINESS POS & ORDER MANAGEMENT SYSTEM
+COMPLETE SOFTWARE REQUIREMENTS SPECIFICATION
+Version 1.0 | 02 November 2026
+
+The DOCX contains the full requirements across Customer, Waiter, Kitchen, Cashier, Delivery Worker, Manager, Business Owner and Super Admin roles, including workflows, modules, database entities, APIs, security, notifications, acceptance criteria and roadmap.
